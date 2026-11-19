@@ -1,0 +1,59 @@
+Zone,Sub Division,Police Station,Non Fatal Accidents,Fatal Accidents,Total Accidents
+East,Banaswadi,Banaswadi,52,15,67
+East,Banaswadi,HBR Layout,38,9,47
+East,Banaswadi,Horamavu,44,11,55
+East,Banaswadi,KG Halli,61,18,79
+East,Banaswadi,Ramamurthynagar,49,13,62
+East,Banaswadi,Subdiv Total,244,66,310
+East,HAL Airport,HAL Airport,55,14,69
+East,HAL Airport,Halsuru,41,10,51
+East,HAL Airport,JB Nagar,47,12,59
+East,HAL Airport,Marathahalli,39,8,47
+East,HAL Airport,Whitefield,58,16,74
+East,HAL Airport,Subdiv Total,240,60,300
+East,K R Pura,KR Pura,67,20,87
+East,K R Pura,Mahadevapura,53,14,67
+East,K R Pura,Subdiv Total,120,34,154
+East Zone Total,,East Zone Total,604,160,764
+North,Chikkajala,Chikkajala,30,10,40
+North,Chikkajala,Devanahalli,34,12,46
+North,Chikkajala,Subdiv Total,64,22,86
+North,Hebbal,Hebbal,42,11,53
+North,Hebbal,Sanjaynagar,36,9,45
+North,Hebbal,Yelahanka,51,15,66
+North,Hebbal,Subdiv Total,129,35,164
+North,Yeshwantpur,Byatarayanapura,48,13,61
+North,Yeshwantpur,Peenya,56,17,73
+North,Yeshwantpur,Yeshwantpur,44,12,56
+North,Yeshwantpur,Subdiv Total,148,42,190
+North Zone Total,,North Zone Total,341,99,440
+South,Bellandur,Bellandur,63,17,80
+South,Bellandur,Electronics City,57,15,72
+South,Bellandur,HSR Layout,45,11,56
+South,Bellandur,Subdiv Total,165,43,208
+South,Hulimavu,Hulimavu,52,14,66
+South,Hulimavu,Madiwala,48,12,60
+South,Hulimavu,Subdiv Total,100,26,126
+South,Jnanabharathi,Jnanabharathi,41,10,51
+South,Jnanabharathi,Kengeri,54,15,69
+South,Jnanabharathi,Talaghattapura,38,10,48
+South,Jnanabharathi,Subdiv Total,133,35,168
+South Zone Total,,South Zone Total,398,104,502
+Central,Chamarajpet,Chamarajpet,39,9,48
+Central,Chamarajpet,City Market,32,8,40
+Central,Chamarajpet,Upparpet,28,7,35
+Central,Chamarajpet,Subdiv Total,99,24,123
+Central,Kamakshipalya,Kamakshipalya,46,12,58
+Central,Kamakshipalya,Subdiv Total,46,12,58
+Central Zone Total,,Central Zone Total,145,36,181
+West,Byatarayanapura,Byatarayanapura,0,0,0
+West,Rajarajeshwarinagar,Rajarajeshwarinagar,52,14,66
+West,Rajarajeshwarinagar,Subdiv Total,52,14,66
+West Zone Total,,West Zone Total,52,14,66
+Traffic North,,Traffic North,312,88,400
+Traffic East,,Traffic East,289,79,368
+Traffic South,,Traffic South,276,74,350
+Traffic West,,Traffic West,241,65,306
+Traffic Central,,Traffic Central,222,58,280
+Traffic Total,,Traffic Total,1340,364,1704
+Grand Total,,Grand Total,3948,852,4800

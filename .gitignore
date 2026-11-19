@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+.env
+
+# Database (auto-generated)
+backend/road_safety.db
+*.db
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+
+# macOS
+.DS_Store
+
+# Bob workspace
+.bob/
+
+# Logs
+*.log

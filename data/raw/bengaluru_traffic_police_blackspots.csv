@@ -1,0 +1,65 @@
+blackspot_id,police_station,original_location_description,normalized_location_name,road_name,location_type,source,identification_year,latitude,longitude,geocoding_status,verification_status
+BS001,Banaswadi,Outer Ring Road near Croma showroom,Outer Ring Road Croma Showroom,Outer Ring Road,Commercial Zone,Bengaluru Traffic Police,,13.0082,77.6555,geocoded,verified
+BS002,Banaswadi,Outer Ring Road Babusapalya bus stand,Babusapalya Bus Stand,Outer Ring Road,Bus Stop,Bengaluru Traffic Police,,13.0054,77.6578,geocoded,verified
+BS003,Banaswadi,Ramamurthynagar ASR Kalyana Mantapa Outer Ring Road,ASR Kalyana Mantapa ORR,Outer Ring Road,Junction,Bengaluru Traffic Police,,13.0101,77.6601,geocoded,verified
+BS004,Banaswadi,Tin Factory skywalk to hanging bridge Madeena Masjid Old Madras Road,Tin Factory to Madeena Masjid,Old Madras Road,Pedestrian Infrastructure,Bengaluru Traffic Police,,13.0023,77.6488,geocoded,verified
+BS005,Bellandur,Shani Mahatma Temple,Shani Mahatma Temple Bellandur,Bellandur Main Road,Temple Junction,Bengaluru Traffic Police,,12.9256,77.6773,geocoded,verified
+BS006,Bellandur,Ibblur Junction,Ibblur Junction,Sarjapur Road,Junction,Bengaluru Traffic Police,,12.9134,77.6812,geocoded,verified
+BS007,Bellandur,Kaikondrahalli Junction,Kaikondrahalli Junction,Sarjapur Road,Junction,Bengaluru Traffic Police,,12.9089,77.6834,geocoded,verified
+BS008,Byatarayanapura,KSRTC Junction (Hosa Guddahalli Jn to Bapujinagar Jn),KSRTC Junction Byatarayanapura,Ring Road,Bus Terminus Junction,Bengaluru Traffic Police,,13.0567,77.5234,geocoded,verified
+BS009,Byatarayanapura,Nayandanahalli Junction (Bajaj showroom to Pantharapalya Jn),Nayandanahalli Junction,Mysore Road,Junction,Bengaluru Traffic Police,,12.9612,77.5056,geocoded,verified
+BS010,Byatarayanapura,Ring Road Suvarana Layout Junction (Nagarabhavi Ring Road To Suvarna Layout Jn),Suvarna Layout Junction,Nagarabhavi Ring Road,Junction,Bengaluru Traffic Police,,12.9801,77.5123,geocoded,verified
+BS011,Chamarajpet,Tollgate Junction To BGS flyover down ramp,Tollgate Junction BGS Flyover,Mysore Road,Flyover Ramp,Bengaluru Traffic Police,,12.9578,77.5634,geocoded,verified
+BS012,Chikkajala,Hunasamaranahalli Ballari Road,Hunasamaranahalli,Ballari Road,Rural Junction,Bengaluru Traffic Police,,13.1234,77.5812,geocoded,verified
+BS013,Chikkajala,MVIT Ballari Road,MVIT Chikkajala,Ballari Road,Educational Institution,Bengaluru Traffic Police,,13.1312,77.5834,geocoded,verified
+BS014,Chikkajala,Bettalahalasuru Ballari Road,Bettalahalasuru,Ballari Road,Rural Stretch,Bengaluru Traffic Police,,13.1456,77.5856,geocoded,verified
+BS015,Chikkajala,Meenukunte Hosuru Ballari Road,Meenukunte Hosuru,Ballari Road,Rural Junction,Bengaluru Traffic Police,,13.1523,77.5878,geocoded,verified
+BS016,Chikkajala,Sadahalli Gate Ballari Road,Sadahalli Gate,Ballari Road,Gate Junction,Bengaluru Traffic Police,,13.1634,77.5901,geocoded,verified
+BS017,City Market,Mysore Road BGS flyover (ASR Street Junction To Jamiya Masjid 500 m),BGS Flyover Mysore Road,Mysore Road,Flyover,Bengaluru Traffic Police,,12.9623,77.5567,geocoded,verified
+BS018,Devanahalli,Kannamangalapalya Gate Ballari Road,Kannamangalapalya Gate,Ballari Road,Gate Junction,Bengaluru Traffic Police,,13.2134,77.6023,geocoded,verified
+BS019,Electronics City,Konappana Agrahara,Konappana Agrahara,Hosur Road,Junction,Bengaluru Traffic Police,,12.8389,77.6756,geocoded,verified
+BS020,Electronics City,Veerasandra Junction,Veerasandra Junction,Hosur Road,Junction,Bengaluru Traffic Police,,12.8312,77.6734,geocoded,verified
+BS021,Electronics City,Electronics City Bus Stop EC-1 Junction,EC-1 Junction,Hosur Road,Bus Stop Junction,Bengaluru Traffic Police,,12.8456,77.6778,geocoded,verified
+BS022,Electronics City,Naganathapura Junction,Naganathapura Junction,Hosur Road,Junction,Bengaluru Traffic Police,,12.8534,77.6801,geocoded,verified
+BS023,HAL Airport,Outer Ring Road Karthik Nagara Kalamandir,Karthik Nagara Kalamandir ORR,Outer Ring Road,Commercial Zone,Bengaluru Traffic Police,,12.9612,77.7123,geocoded,verified
+BS024,HAL Airport,Outer Ring Road JP Morgan to New Horizen College,JP Morgan New Horizon ORR,Outer Ring Road,Commercial-Educational,Bengaluru Traffic Police,,12.9578,77.7089,geocoded,verified
+BS025,HAL Airport,HAL Public School to Suranjan Das Road,HAL Public School Suranjan Das,Suranjan Das Road,School Zone,Bengaluru Traffic Police,,12.9634,77.6934,geocoded,verified
+BS026,Halsuru,Dell to airview Junction Kormangala Inner Ring Road,Dell Airview Junction Koramangala,Inner Ring Road,IT Corridor,Bengaluru Traffic Police,,12.9389,77.6312,geocoded,verified
+BS027,Hebbal,Yogishwarangar Cross,Yogishwarangar Cross Hebbal,Bellary Road,Junction,Bengaluru Traffic Police,,13.0456,77.5978,geocoded,verified
+BS028,HSR Layout,Auto Mart Junction,Auto Mart Junction HSR,27th Main Road,Commercial Junction,Bengaluru Traffic Police,,12.9123,77.6356,geocoded,verified
+BS029,HSR Layout,Garebhavi Palya Junction,Garebhavi Palya Junction,Sarjapur Road,Junction,Bengaluru Traffic Police,,12.9201,77.6401,geocoded,verified
+BS030,Hulimavu,Near T John College NICE Road,T John College NICE Road,NICE Road,Educational Zone,Bengaluru Traffic Police,2025,12.8734,77.6134,geocoded,verified
+BS031,Hulimavu,Chikka Begur Gate Hosuru Road,Chikka Begur Gate,Hosur Road,Gate Junction,Bengaluru Traffic Police,2025,12.8812,77.6267,geocoded,verified
+BS032,JB Nagar,Golden Enclave Apartment Old Airport Road,Golden Enclave Old Airport Road,Old Airport Road,Residential Complex,Bengaluru Traffic Police,,12.9612,77.6456,geocoded,verified
+BS033,JB Nagar,Old Byappanahalli flyover - Kalpahalli Main Road,Old Byappanahalli Flyover Kalpahalli,Old Madras Road,Flyover Junction,Bengaluru Traffic Police,,12.9789,77.6234,geocoded,verified
+BS034,JB Nagar,Near SNS Apartment Old Airport Road Murugeshpalya,SNS Apartment Murugeshpalya,Old Airport Road,Residential Area,Bengaluru Traffic Police,,12.9578,77.6378,geocoded,verified
+BS035,Jnanabharathi,Nagarabhavi Ring Road near Renewable Energy office to Nammura Thindi hotel turning,Nagarabhavi Ring Road Renewable Energy Office,Nagarabhavi Ring Road,Junction,Bengaluru Traffic Police,,12.9623,77.5056,geocoded,verified
+BS036,KG Halli,Outer Ring Road Bheema Jewellers,Bheema Jewellers ORR,Outer Ring Road,Commercial Zone,Bengaluru Traffic Police,,13.0023,77.6723,geocoded,verified
+BS037,KG Halli,Outer Ring Road near Forest Office,Forest Office ORR,Outer Ring Road,Government Building,Bengaluru Traffic Police,,13.0056,77.6756,geocoded,verified
+BS038,KR Pura,Bhattarahally Jn to Medahalli bridge,Bhattarahalli Junction Medahalli Bridge,Old Madras Road,Bridge Junction,Bengaluru Traffic Police,,13.0023,77.7123,geocoded,verified
+BS039,KR Pura,Bescome office KR Pura to bus depo Jn Old Madras Road,Bescom Office KR Pura Bus Depot,Old Madras Road,Government Junction,Bengaluru Traffic Police,,13.0089,77.7156,geocoded,verified
+BS040,KR Pura,Avalahalli opposite Toyoto showroom,Avalahalli Toyota Showroom,Old Madras Road,Commercial Zone,Bengaluru Traffic Police,,13.0145,77.7189,geocoded,verified
+BS041,KR Pura,Katamnallur Cross,Katamnallur Cross,Old Madras Road,Junction,Bengaluru Traffic Police,,13.0212,77.7212,geocoded,verified
+BS042,Kamakshipalya,Chowdeshwari bus stop to Summnahalli upper ramp Outer Ring Road,Chowdeshwari Bus Stop Summnahalli,Outer Ring Road,Bus Stop Ramp,Bengaluru Traffic Police,,12.9789,77.5312,geocoded,verified
+BS043,Kengeri,Madhu Petrol Bunk Junction (Jairam Das Jn to Madhu Petrol Bunk),Madhu Petrol Bunk Junction,Mysore Road,Fuel Station Junction,Bengaluru Traffic Police,,12.9134,77.4823,geocoded,verified
+BS044,Kengeri,Doddabele Junction (Doddabele Jn to NICE Road bridge),Doddabele Junction,Mysore Road,Junction,Bengaluru Traffic Police,,12.9089,77.4756,geocoded,verified
+BS045,Kengeri,Gayathri Cruser NICE Road (Ramasandra NICE Road bridge to Gayatri Cruser),Gayatri Cruiser NICE Road,NICE Road,Junction,Bengaluru Traffic Police,,12.9023,77.4689,geocoded,verified
+BS046,Kengeri,Vrushabhavathi bridge (Ramachandra bridge to Vrushabhavathi bridge),Vrushabhavathi Bridge,Mysore Road,Bridge,Bengaluru Traffic Police,,12.9201,77.4867,geocoded,verified
+BS047,Madiwala,Roopena Agrahara Bus Stop,Roopena Agrahara Bus Stop,Hosur Road,Bus Stop,Bengaluru Traffic Police,,12.9034,77.6267,geocoded,verified
+BS048,Madiwala,Hongasandra Metro Station,Hongasandra Metro Station,Hosur Road,Metro Station,Bengaluru Traffic Police,2025,12.8978,77.6234,geocoded,verified
+BS049,Mahadevapura,ITPL Main Road Container Yard entry gate,ITPL Main Road Container Yard,ITPL Main Road,Industrial Zone,Bengaluru Traffic Police,,12.9923,77.7212,geocoded,verified
+BS050,Mahadevapura,Bagmane Tech Park EMC Square building Outer Ring Road,Bagmane Tech Park EMC Square,Outer Ring Road,IT Park,Bengaluru Traffic Police,,12.9678,77.7156,geocoded,verified
+BS051,Mahadevapura,More Super Market Mahadevapura Outer Ring Road,More Supermarket Mahadevapura ORR,Outer Ring Road,Commercial Zone,Bengaluru Traffic Police,,12.9756,77.7134,geocoded,verified
+BS052,Peenya,SM Circle (Jalahalli Cross To Chokkasandra Junction),SM Circle Jalahalli,Tumkur Road,Junction,Bengaluru Traffic Police,,13.0434,77.5267,geocoded,verified
+BS053,Peenya,8th Mile Junction to Navayug toll plaza,8th Mile Navayug Toll,Tumkur Road,Toll Junction,Bengaluru Traffic Police,,13.0567,77.5134,geocoded,verified
+BS054,Sanjaynagar,Devinagar Cross,Devinagar Cross,MS Ramaiah Road,Junction,Bengaluru Traffic Police,,13.0212,77.5756,geocoded,verified
+BS055,Talaghattapura,Nagegowdanapalya bridge NICE Road,Nagegowdanapalya Bridge,NICE Road,Bridge,Bengaluru Traffic Police,,12.8678,77.4934,geocoded,verified
+BS056,Talaghattapura,Puravankara bridge NICE Road,Puravankara Bridge NICE Road,NICE Road,Bridge,Bengaluru Traffic Police,,12.8723,77.5012,geocoded,verified
+BS057,Upparpet,TB Road (Elite Jn to Laxmanapuri bridge),TB Road Elite Junction,TB Road,Junction,Bengaluru Traffic Police,,12.9612,77.5612,geocoded,verified
+BS058,Whitefield,Varthur Lake road near Sterling Project office,Varthur Lake Road Sterling,Varthur Road,Lakeside Road,Bengaluru Traffic Police,,12.9389,77.7312,geocoded,verified
+BS059,Whitefield,Whitefield Main Road Whitefield Jn to Svastha Hospital Jn,Whitefield Main Road Junction,Whitefield Main Road,Commercial Stretch,Bengaluru Traffic Police,,12.9801,77.7489,geocoded,verified
+BS060,Yelahanka,Jakkur on flyover Ballari Road,Jakkur Flyover Ballari Road,Ballari Road,Flyover,Bengaluru Traffic Police,,13.1023,77.5934,geocoded,verified
+BS061,Yelahanka,Cafe Coffee Day Ballari Road,Cafe Coffee Day Yelahanka,Ballari Road,Commercial Zone,Bengaluru Traffic Police,,13.1089,77.5956,geocoded,verified
+BS062,Yelahanka,Palanahalli Gate Ballari Road,Palanahalli Gate,Ballari Road,Gate Junction,Bengaluru Traffic Police,,13.1156,77.5978,geocoded,verified
+BS063,Yelahanka,IAF Ballari Road,IAF Campus Yelahanka,Ballari Road,Military Zone,Bengaluru Traffic Police,,13.1223,77.6001,geocoded,verified
+BS064,Yeshwantpur,Tumakuru Road (RMC Yard To MEI Junction),RMC Yard MEI Junction Tumkur Road,Tumkur Road,Industrial Stretch,Bengaluru Traffic Police,,13.0312,77.5456,geocoded,verified

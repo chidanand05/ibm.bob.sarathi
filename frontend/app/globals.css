@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --bg-base: #080D18;
+  --bg-secondary: #0D1524;
+  --bg-card: #111C2D;
+  --accent: #29C8E8;
+  --risk-high: #EF5350;
+  --risk-medium: #F59E0B;
+  --risk-moderate: #EAB308;
+  --risk-low: #22C55E;
+  --text-muted: #94A3B8;
+}
+
+body {
+  background: var(--bg-base);
+  color: #e2e8f0;
+  font-family: -apple-system, "Segoe UI", system-ui, sans-serif;
+}
+
+.map-container { height: 500px; width: 100%; }
