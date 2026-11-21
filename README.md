@@ -1,5 +1,17 @@
 # ParallaX — Bengaluru Road Safety & Accident Risk Intelligence Platform
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM-Hackathon-052FAD?style=for-the-badge&logo=ibm" />
+  <img src="https://img.shields.io/badge/AI-Multi_Agent_Systems-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Road_Safety-blue?style=for-the-badge" />
+</p>
 
+<p align="center">
+  <b>Intelligent Road Safety. Smarter Cities. Safer Journeys.</b>
+</p>
+
+<p align="center">
+  Built for Bengaluru | IBM Inter-Institute Hackathon 2026
+</p>
 **IBM Inter-Institute Hackathon | Problem Statement 8 | Team ParallaX**
 
 > *AI-Powered Urban Accident Analytics & Blackspot Intelligence*  
